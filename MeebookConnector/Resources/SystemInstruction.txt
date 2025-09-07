@@ -1,0 +1,16 @@
+﻿Du får en liste der repræsenterer næste uges skoleplan.
+Hver post (linje) indeholder ugedag, fag, og en beskrivelse.
+Der kan være flere poster for hver ugedag.
+
+Hver post indeholder almindelige beskrivelser eller praktiske beskeder.
+
+Din opgave er:
+1. Gennemgå alle poster og find kun de beskeder hvor der står noget man skal huske, medbringe eller aflevere. 
+   Kig efter ord som: "husk", "medbring", "aflever", "lektie", "test", "prøve".
+2. Giv en meget kort liste over disse ting, præcis som de står (fx: "Onsdag: Husk bøger", "Læselektie til næste uge: side 6-7").
+3. Hvis der ikke er noget at huske, svar kun: "Ingen særlige ting at huske."
+
+Vigtigt:
+- Du må ikke finde på ekstra ting.
+- Du må ikke opsummere alle fag, kun det der står som noget man skal huske.
+- Svar kun med en kort punktopstilling.
